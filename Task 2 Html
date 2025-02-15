@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <h1>Kabir Mohsin</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a> </li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me </h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-TgCX0B8UPcVK-xdif8Za-1CeA2DwUhOug&s" alt="Your Profile Picture">  <p>Hello Everyone, I am Kabir Mohsin a passionate Software Developer currently I am pursuing Bachelor's of Computer Applications from Invertis University with experience in designing, developing, and optimizing web applications. Skilled in HTML, CSS, JavaScript, I specialize in building responsive, user-friendly, and scalable applications.
+
+            With a strong foundation in machine learning, data analysis, and risk management, I also work on projects involving Python, Pandas, NumPy, and Matplotlib to extract meaningful insights from data. My experience includes working on regression models, risk assessment, and automation tools, bridging the gap between software development and data-driven decision-making.
+            
+            I am always eager to learn new technologies and improve my problem-solving skills to create efficient and innovative solutions. Let's connect and build something great! 🚀
+            
+            
+            
+            
+            
+            
+            
+            </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqdS2uHOWx8L3Bd8h27JHq-Kyb_lrLOScRQ&s" alt="Project 1">  <h3>Responsive Registration Form </h3>
+            <p>A registration form in frontend development is an interface that allows users to sign up by entering their details, such as name, email, password, and other required fields. It typically includes input fields, labels, validation messages, and a submit button. The form can be designed using HTML, styled with CSS.</p>
+            <a href="https://github.com/Kabirmohsin/Registration-Form-Using-Frontend">Project Link</a>  </div>
+
+        <div class="project">
+            <img src="data:image/jpeg;base64,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" alt="Project 2"> <h3>Artificial Intelligence ChatBot</h3>
+            <p>An Artificial Intelligence Chatbot is a software application that simulates human-like conversations using Natural Language Processing (NLP) and Machine Learning (ML). It can understand user inputs, process them, and generate appropriate responses. AI chatbots are widely used in customer support, virtual assistants, healthcare, and e-commerce to provide instant, automated, and intelligent interactions. They can be rule-based or powered by advanced models like GPT, BERT, or LLMs, enabling them to learn and improve over time. 🚀</p>
+            <a href="https://github.com/Kabirmohsin/Artificial-Intelligence-ChatBot">Project Link</a> </div>
+
+        </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <form id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea><br><br>
+
+            <button type="submit">Submit</button>
+            
+
+        </form>
+        <div id="form-message"></div>  <p>You can also reach me at: kabirmohsin283@gmail.com</p>  </section>
+
+    <footer>
+        <p>&copy; Kabir Mohsin</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
